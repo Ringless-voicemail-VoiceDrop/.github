@@ -140,7 +140,7 @@ Leveraging cutting-edge machine learning, the software clones a user's voice to 
 
 If you want a scalable, sales-focused tool that helps you generate warm leads faster, VoiceDrop's ringless voicemail technology is a top-tier choice. And with these verified VoiceDrop coupons, you can easily save 35% annually, grab 15% off your first month with code **VDRVMAI15**, or start with a 5-day free trial before paying anything.
 
-[![Claim This Discount](IMAGE_URL_image9.png)](https://www.voicedrop.ai/)
+![Ringless Voicemails](https://raw.githubusercontent.com/Ringless-voicemail-VoiceDrop/.github/refs/heads/main/ringlessimage.png)
 
 Choose the plan that matches your campaign size, apply the best VoiceDrop promo code at checkout, and start launching ringless voicemail drops at a much lower cost.
 
