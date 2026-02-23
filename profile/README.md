@@ -49,11 +49,11 @@ Follow these 4 simple steps to claim a VoiceDrop promo code.
 
 **Step 2:** Click on the **pricing tab** from the top bar, and **select a plan** that suits your outreach needs.
 
-[![Ringless Voicemails](https://raw.githubusercontent.com/Ringless-voicemail-VoiceDrop/.github/refs/heads/main/voicedrop2.png)](https://www.voicedrop.ai/price)
+[![Check out plans](https://raw.githubusercontent.com/Ringless-voicemail-VoiceDrop/.github/refs/heads/main/voicedrop2.png)](https://www.voicedrop.ai/price)
 
 **Step 3:** Now, **sign up on VoiceDrop** by entering your email ID.
 
-[![Ringless Voicemails](https://raw.githubusercontent.com/Ringless-voicemail-VoiceDrop/.github/refs/heads/main/voicedrop3.png)](https://www.voicedrop.ai/)
+[![Signup](https://raw.githubusercontent.com/Ringless-voicemail-VoiceDrop/.github/refs/heads/main/voicedrop3.png)](https://app.voicedrop.ai/signup)
 
 **Tip:** You are free to use the platform's trial to get $20 in free credits.
 
